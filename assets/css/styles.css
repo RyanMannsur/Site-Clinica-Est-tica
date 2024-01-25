@@ -188,7 +188,6 @@ body .full-width {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
-    background: var(--white-color);
     width: 5rem;
     height: 5rem;
     display: flex;
@@ -197,7 +196,6 @@ body .full-width {
     border-radius: 50%;
     color: var(--primary-color);
     transform: rotate(-90deg);
-    border: 0.1rem solid var(--primary-color);
 }
 
 /* introdução e sessão 4*/
