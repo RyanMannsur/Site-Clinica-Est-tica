@@ -78,6 +78,7 @@ p {
 
 /* Classes Genericas */
 
+
 .main-bg {
     background-image: url('../img/rose-petals.svg');
     background-size: cover;
@@ -221,7 +222,12 @@ body .full-width {
     grid-template-rows: 1fr 1fr;
 }
 
+.intro-img {
+    padding-left: 10rem;
+}
+
 .intro-img img {
+    width: 50rem;
     max-width: 100%;
     height: auto;
 }
